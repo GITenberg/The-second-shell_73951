@@ -1,0 +1,48 @@
+_repo: The-second-shell_73951
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Paul, Frank R. (Frank Rudolph)
+    alias: Paul, Frank Rudolph
+    birthdate: 1884
+    deathdate: 1963
+    gutenberg_agent_id: '31333'
+    url: http://www.gutenberg.org/2009/agents/31333
+    wikipedia: https://en.wikipedia.org/wiki/Frank_R._Paul
+creator:
+  author:
+    agent_name: Williamson, Jack
+    aliases:
+    - Williamson, John Stewart
+    - Stewart, Will
+    birthdate: 1908
+    deathdate: 2006
+    gutenberg_agent_id: '31775'
+    url: http://www.gutenberg.org/2009/agents/31775
+    wikipedia: https://en.wikipedia.org/wiki/Jack_Williamson
+description: ''
+gutenberg_issued: '2024-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73951'
+language: en
+pgterms:marc905: 20240510141614williamson
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bStellar Publishing Corporation, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Mexico -- Fiction'
+- !lcsh 'Inventions -- Fiction'
+- !lcsh 'Weapons -- Fiction'
+- !lcsh 'Ionosphere -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The second shell
+url: http://www.gutenberg.org/ebooks/73951
