@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '31333'
     url: http://www.gutenberg.org/2009/agents/31333
     wikipedia: https://en.wikipedia.org/wiki/Frank_R._Paul
+covers:
+- cover_type: archival
+  image_path: 73951-h/images/cover.jpg
 creator:
   author:
     agent_name: Williamson, Jack
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31775
     wikipedia: https://en.wikipedia.org/wiki/Jack_Williamson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73951#The-second-shell
 gutenberg_issued: '2024-06-29'
 gutenberg_type: Text
 identifiers:
